@@ -1,0 +1,18 @@
+table {
+    border: 10px;
+    padding: 10px;
+}
+
+tbody {
+    border: 10px;
+    padding: 10px;
+}
+
+th {
+    margin: 10px;
+    padding: 10px;
+}
+
+td {
+    border: 10px;
+}
